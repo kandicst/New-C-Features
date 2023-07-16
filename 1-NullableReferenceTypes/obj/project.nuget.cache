@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3Zip9/DI2Y6eGAJaYK2mm4N6AtKIDiFzsZeXjC08RRlAT0puL53c2d8ov3NPb5fq76ew+n1InvRV+6oMwpYpPw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Stefan\\source\\repos\\NewFeatures\\1-NullableReferenceTypes\\1-NullableReferenceTypes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Stefan\\.nuget\\packages\\polysharp\\1.13.2\\polysharp.1.13.2.nupkg.sha512"
+  ],
+  "logs": []
+}

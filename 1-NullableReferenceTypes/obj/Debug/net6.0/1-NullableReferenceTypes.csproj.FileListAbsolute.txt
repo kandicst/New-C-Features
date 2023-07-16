@@ -1,0 +1,15 @@
+C:\Users\Stefan\source\repos\NewFeatures\1-NullableReferenceTypes\bin\Debug\net6.0\1-NullableReferenceTypes.exe
+C:\Users\Stefan\source\repos\NewFeatures\1-NullableReferenceTypes\bin\Debug\net6.0\1-NullableReferenceTypes.deps.json
+C:\Users\Stefan\source\repos\NewFeatures\1-NullableReferenceTypes\bin\Debug\net6.0\1-NullableReferenceTypes.runtimeconfig.json
+C:\Users\Stefan\source\repos\NewFeatures\1-NullableReferenceTypes\bin\Debug\net6.0\1-NullableReferenceTypes.dll
+C:\Users\Stefan\source\repos\NewFeatures\1-NullableReferenceTypes\bin\Debug\net6.0\1-NullableReferenceTypes.pdb
+C:\Users\Stefan\source\repos\NewFeatures\1-NullableReferenceTypes\obj\Debug\net6.0\1-NullableReferenceTypes.csproj.AssemblyReference.cache
+C:\Users\Stefan\source\repos\NewFeatures\1-NullableReferenceTypes\obj\Debug\net6.0\1-NullableReferenceTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stefan\source\repos\NewFeatures\1-NullableReferenceTypes\obj\Debug\net6.0\1-NullableReferenceTypes.AssemblyInfoInputs.cache
+C:\Users\Stefan\source\repos\NewFeatures\1-NullableReferenceTypes\obj\Debug\net6.0\1-NullableReferenceTypes.AssemblyInfo.cs
+C:\Users\Stefan\source\repos\NewFeatures\1-NullableReferenceTypes\obj\Debug\net6.0\1-NullableReferenceTypes.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\NewFeatures\1-NullableReferenceTypes\obj\Debug\net6.0\1-NullableReferenceTypes.dll
+C:\Users\Stefan\source\repos\NewFeatures\1-NullableReferenceTypes\obj\Debug\net6.0\refint\1-NullableReferenceTypes.dll
+C:\Users\Stefan\source\repos\NewFeatures\1-NullableReferenceTypes\obj\Debug\net6.0\1-NullableReferenceTypes.pdb
+C:\Users\Stefan\source\repos\NewFeatures\1-NullableReferenceTypes\obj\Debug\net6.0\1-NullableReferenceTypes.genruntimeconfig.cache
+C:\Users\Stefan\source\repos\NewFeatures\1-NullableReferenceTypes\obj\Debug\net6.0\ref\1-NullableReferenceTypes.dll
