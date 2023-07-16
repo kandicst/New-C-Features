@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Stefan\\source\\repos\\NewFeatures\\1-NullableReferenceTypes\\1-NullableReferenceTypes.csproj": {}
+    "C:\\Users\\Stefan\\source\\repos\\New-C-Features\\1-NullableReferenceTypes\\1-NullableReferenceTypes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Stefan\\source\\repos\\NewFeatures\\1-NullableReferenceTypes\\1-NullableReferenceTypes.csproj": {
+    "C:\\Users\\Stefan\\source\\repos\\New-C-Features\\1-NullableReferenceTypes\\1-NullableReferenceTypes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Stefan\\source\\repos\\NewFeatures\\1-NullableReferenceTypes\\1-NullableReferenceTypes.csproj",
+        "projectUniqueName": "C:\\Users\\Stefan\\source\\repos\\New-C-Features\\1-NullableReferenceTypes\\1-NullableReferenceTypes.csproj",
         "projectName": "1-NullableReferenceTypes",
-        "projectPath": "C:\\Users\\Stefan\\source\\repos\\NewFeatures\\1-NullableReferenceTypes\\1-NullableReferenceTypes.csproj",
+        "projectPath": "C:\\Users\\Stefan\\source\\repos\\New-C-Features\\1-NullableReferenceTypes\\1-NullableReferenceTypes.csproj",
         "packagesPath": "C:\\Users\\Stefan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Stefan\\source\\repos\\NewFeatures\\1-NullableReferenceTypes\\obj\\",
+        "outputPath": "C:\\Users\\Stefan\\source\\repos\\New-C-Features\\1-NullableReferenceTypes\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -44,14 +44,6 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "dependencies": {
-            "PolySharp": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[1.13.2, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",

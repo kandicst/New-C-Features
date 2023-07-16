@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Stefan\\source\\repos\\NewFeatures\\1-InitKeyword\\1-InitKeyword.csproj": {}
+    "C:\\Users\\Stefan\\source\\repos\\New-C-Features\\1-InitKeyword\\1-InitKeyword.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Stefan\\source\\repos\\NewFeatures\\1-InitKeyword\\1-InitKeyword.csproj": {
+    "C:\\Users\\Stefan\\source\\repos\\New-C-Features\\1-InitKeyword\\1-InitKeyword.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Stefan\\source\\repos\\NewFeatures\\1-InitKeyword\\1-InitKeyword.csproj",
+        "projectUniqueName": "C:\\Users\\Stefan\\source\\repos\\New-C-Features\\1-InitKeyword\\1-InitKeyword.csproj",
         "projectName": "1-InitKeyword",
-        "projectPath": "C:\\Users\\Stefan\\source\\repos\\NewFeatures\\1-InitKeyword\\1-InitKeyword.csproj",
+        "projectPath": "C:\\Users\\Stefan\\source\\repos\\New-C-Features\\1-InitKeyword\\1-InitKeyword.csproj",
         "packagesPath": "C:\\Users\\Stefan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Stefan\\source\\repos\\NewFeatures\\1-InitKeyword\\obj\\",
+        "outputPath": "C:\\Users\\Stefan\\source\\repos\\New-C-Features\\1-InitKeyword\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

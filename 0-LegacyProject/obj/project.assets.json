@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Stefan\\source\\repos\\NewFeatures\\0-LegacyProject\\0-LegacyProject.csproj",
+      "projectUniqueName": "C:\\Users\\Stefan\\source\\repos\\New-C-Features\\0-LegacyProject\\0-LegacyProject.csproj",
       "projectName": "0-LegacyProject",
-      "projectPath": "C:\\Users\\Stefan\\source\\repos\\NewFeatures\\0-LegacyProject\\0-LegacyProject.csproj",
+      "projectPath": "C:\\Users\\Stefan\\source\\repos\\New-C-Features\\0-LegacyProject\\0-LegacyProject.csproj",
       "packagesPath": "C:\\Users\\Stefan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Stefan\\source\\repos\\NewFeatures\\0-LegacyProject\\obj\\",
+      "outputPath": "C:\\Users\\Stefan\\source\\repos\\New-C-Features\\0-LegacyProject\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

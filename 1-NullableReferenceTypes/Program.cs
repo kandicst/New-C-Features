@@ -5,11 +5,7 @@ public static class C
     public class Person
     {
         public string Name { get; init; }
-
-        public override string ToString()
-        {
-            return $"My name is: {Name}";
-        }
+        public string Address { get; init; }
     } 
 
     public static class PersonRepository
